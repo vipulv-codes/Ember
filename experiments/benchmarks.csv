@@ -1,0 +1,7 @@
+variant,kv_cache,tok_per_sec
+fp32 CPU,False,28.1
+fp32 CPU,True,87.1
+int8 CPU,False,53.6
+int8 CPU,True,126.3
+bf16 GPU,False,91.5
+bf16 GPU,True,98.7

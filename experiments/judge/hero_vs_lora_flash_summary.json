@@ -1,0 +1,18 @@
+{
+  "judge": "gemini-2.5-flash",
+  "n": 100,
+  "generation_config": {
+    "temperature": 0.0,
+    "responseMimeType": "application/json",
+    "maxOutputTokens": 1024,
+    "thinkingConfig": {
+      "thinkingBudget": 0
+    }
+  },
+  "model_a": "ember_30m_hero",
+  "model_b": "lora_30m_r8",
+  "wins_a": 10,
+  "wins_b": 86,
+  "ties": 4,
+  "winrate_b_vs_a": 0.896
+}

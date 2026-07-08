@@ -1,0 +1,18 @@
+loaded ladder4_tinystories_5m @ step 3662 on cuda
+
+--- sample 1 ---
+Once upon a time, there was a big, terrible shark. The shark was very sad and alone. He wanted to help the shark feel better. So, he decided to part a little stone from the sea.
+The shark was scared at first, but then he did something unexpected. Instead, he made a big wave. He did not feel the trust in his dream. The shark had a friend, a little bird. The bird was happy to help him.
+The shark and the bird became best friends. They played together every day. The moral of the story is that we will always help others when they need it.
+
+--- sample 2 ---
+Once upon a time, there was a little boy named Tim. Tim loved to play games with his friends. One day, Tim's mom told him to go to the big temple. Tim thought about it and decided to go in.
+When they got to the temple, Tim's mom said, "Tim, you can come back soon. It is going to be late today." Tim was very happy and excited. He put on his favorite dress and went to the temple every day.
+At the temple, Tim saw his friends playing with cars and having fun. But one day, while playing, he slipped on the car and got very dirty. His friends helped him clean up the mess and clean it up. Tim learned that it was important to be careful and
+
+--- sample 3 ---
+Once upon a time, in a small town, there was a grumpy dog named Spot. Spot did not like to talk to people. One day, the dog was very grumpy and did not want to talk to a cat anymore.
+Spot went to his friend, a little girl named Amy. She said, "Spot, you must find a toy that can help you." Spot thought about what he could help her. He said, "Okay, let's look for a toy together."
+They looked and looked. Then, they found a toy car inside the toy box. Spot was very happy and wagged his tail. "Thank you, Amy!" said Spot.
+From that day on, Spot and Amy played with the toy car every day. They had lots
+

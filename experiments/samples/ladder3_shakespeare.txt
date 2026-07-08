@@ -1,0 +1,40 @@
+loaded ladder3_shakespeare_char @ step 801 on cuda
+
+--- sample 1 ---
+ROMEO:
+Yet before were affection but backet boast.
+
+CLAUDIO:
+Sirrah, and barr'd he use a breath, did hoave me:
+His confuse, whereof, and something he confirmed
+the begin we sent, will it there by the day like
+his ever spel line to me the mild with a child.
+
+Clown:
+He'll tell you at lives to thy word to ke
+
+--- sample 2 ---
+ROMEO:
+To Wing the tremblane's that should need me
+And shall be the day of thrumped so;
+And he must not male offices dear death?
+
+KING RICHARD III:
+Warward by his grace hath conscience your highness;
+Even you me not be against your gates, so a chamberlain;
+The world is any that she hath nets to be
+On my c
+
+--- sample 3 ---
+ROMEO:
+These constances lords and sovereign the sea
+In Rutland as fair parts to their peers boys.
+
+HENRY BOLINGBROKE:
+In this Clarence! now my life and enough
+In heart bears the victory with some villains;
+For the walls with speaks so I say it best.
+
+HENRY BOLINGBROKE:
+Grow the open in determined the boar
+
